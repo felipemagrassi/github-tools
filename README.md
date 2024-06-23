@@ -1,3 +1,3 @@
-# GitOps
+# Ops
 
-Some stuff that im learning or learned with git and github
+Some stuff that im learning or learned with git, ci/cd, docker, kubernetes etc
